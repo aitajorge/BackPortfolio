@@ -99,15 +99,5 @@
 		</plugins>
             </pluginManagement>
 	</build>
-        <profiles>
-            <profile>
-                <id>validate-plugins</id>
-                <activation>
-                    <property>
-                        <name>maven.plugin.validation</name>
-                        <value>verbose</value>
-                    </property>
-                </activation>
-            </profile>
-        </profiles>
+
 </project>
