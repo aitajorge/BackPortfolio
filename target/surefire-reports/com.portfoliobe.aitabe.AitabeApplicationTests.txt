@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.portfoliobe.aitabe.AitabeApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.462 s - in com.portfoliobe.aitabe.AitabeApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.894 s - in com.portfoliobe.aitabe.AitabeApplicationTests
