@@ -1,7 +1,0 @@
-com\portfoliobe\aitabe\Controller\PersonaController.class
-com\portfoliobe\aitabe\Repositorio\PersonaRepo.class
-com\portfoliobe\aitabe\AitabeApplication.class
-com\portfoliobe\aitabe\Logica\Persona.class
-com\portfoliobe\aitabe\Interface\PersonaServ.class
-com\portfoliobe\aitabe\WebConfig.class
-com\portfoliobe\aitabe\Servicio\ContPersonaServ.class
