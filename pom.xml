@@ -6,7 +6,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.1.0</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath/> 
     </parent>
     <groupId>com.portfoliobe</groupId>
     <artifactId>aitabe</artifactId>
@@ -14,7 +14,9 @@
     <name>aitabe</name>
     <description>Portfolio Back End Jorge Aita</description>
     <properties>
+        <maven.plugin.validation>verbose</maven.plugin.validation>
         <java.version>17.0.7</java.version>
+
     </properties>
     <dependencies>
         <dependency>
