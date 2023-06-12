@@ -1,4 +1,4 @@
-FROM amazoncorreto:20.0.1
+FROM amazoncorreto:<version>
 MAINTAINER aitajorge
 COPY /target/aitabe-0.0.1-SNAPSHOT.jar aitabe-0.0.1-SNAPSHOT.jar
 ENTRYPOINT ["java","-jar","/mgb-app.jar"]
