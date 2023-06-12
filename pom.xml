@@ -15,7 +15,7 @@
     <description>Portfolio Back End Jorge Aita</description>
     <properties>
         <maven.plugin.validation>verbose</maven.plugin.validation>
-        <java.version>17</java.version>
+        <java.version>20</java.version>
 
     </properties>
     <dependencies>
