@@ -15,7 +15,7 @@
     <description>Portfolio Back End Jorge Aita</description>
     <properties>
         <maven.plugin.validation>verbose</maven.plugin.validation>
-        <java.version>17.0.7</java.version>
+        <java.version>17.0.7_7</java.version>
 
     </properties>
     <dependencies>
@@ -88,20 +88,20 @@
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-compiler-plugin</artifactId>
-                    <version>3.8.1</version>
+                   
                     <configuration>
                         <release>11</release>
                     </configuration>
                 </plugin>
             </plugins>
-        
+      
 
         <pluginManagement>
             <plugins>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-jar-plugin</artifactId>
-                    <version>3.2.0</version>
+                    <version>3.3.0</version>
                     <configuration>
                         <archive>
                             <manifest>
